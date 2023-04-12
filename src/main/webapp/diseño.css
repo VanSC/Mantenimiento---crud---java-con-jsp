@@ -1,0 +1,52 @@
+@charset "ISO-8859-1";
+	body{
+		margin-top:10px;
+	}
+	button a{
+		color:white;
+		text-decoration:none;
+		font-weight:bold;
+	}
+	.linea{
+		margin-right:60px;
+		margin-left:60px;
+	}
+	a{
+		text-decoration:none;
+		text-color:white;
+		text-size:3rem;
+	}
+	
+	.datostxt{
+		border-radius:10px;
+		margin:15px;
+		border:none;
+	}
+	select{
+		border-radius:10px;
+		border-width:4px solid;
+		margin:5px;
+	}
+	.formregistro{
+		margin:10px;
+		margin-left:150px;
+		margin-right:150px;
+	}
+	.NombreVentana{
+		text-align: center;
+	}
+	.linkback{
+		text-align: right;
+	}
+	.linkback a{
+		text-decoration:underline;
+	}
+	#header{
+		background-color:lightblue;
+		color:white;
+	}
+	ul li .nav-link{
+		color:white;
+		text-decoration:none;
+		font-weight:bold;
+	}
